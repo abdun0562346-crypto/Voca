@@ -1,0 +1,11 @@
+{
+  "name": "Voca: AI Voice OS",
+  "description": "A high-tech, voice-controlled virtual assistant and simulated operating system environment powered by Gemini AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "voice_control",
+    "ai_assistant"
+  ]
+}
